@@ -1,0 +1,53 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-size: cover;
+    
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    max-width: 600px;
+    width: 95%;
+
+}
+
+.home-container {
+    font-size: 40px;
+}
+
+.sub-container h3{
+    color: white;
+    font-size: 2.5rem;
+    margin-bottom: 1em;
+    text-align: center;
+
+}
+.scoreboard{ 
+    padding: 2.5em;
+    background-color: black;
+    border-radius: 10px;
+    margin-bottom: 2.5em;
+}
+
+.scoreboard p{
+    font-family: 'Roboto Mono' ,monospace;
+    color: blanchedalmond;
+}
+
+.countdown {
+    font-size: 30px;
+}
+

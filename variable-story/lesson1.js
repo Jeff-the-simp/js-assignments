@@ -26,6 +26,5 @@ document.write( student1 + ' heard this news then called ' + student2 + ' to jum
 
 const sample1 = prompt('Are you part of the PAS community?')
 const sample2 = prompt('What is your name?')
-const reader1 = prompt('who are you')
 
 document.write("<img src='https://pacificamerican.org/wp-content/uploads/2020/04/MG_0925.jpg'/>")
